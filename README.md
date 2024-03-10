@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I'm Nicole, welcome to my Github. 
+A bit about myself, I am a Data Science student, curretly studying with Hyperdev.
+I work as an Orthotist (more to do with biomechanics) a very rewarding and interesting job, 
+however, now 
+I am looking to change my career path and expand my knowledge in an area that is fascinanting 🔭 and innovative 
+such as data science. 
+### My inbox is open, so please do not hesitate to contact me if you have further questions.
+
 <!--
 **juniornic/juniornic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
